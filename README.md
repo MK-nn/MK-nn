@@ -2,7 +2,7 @@
 
 <p>
 
-[![MK-nn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mk-nn&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![MK-nn's GitHub stats](https://github-readme-stats-lilac-five-68.vercel.app/api?username=MK-nn&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MK-nn&theme=onedark)](https://github.com/MK-nn/github-profile-trophy)
 
